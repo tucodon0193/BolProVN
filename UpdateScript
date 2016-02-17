@@ -701,7 +701,8 @@ Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Ekko.lua
 [175]
 Common=Scripts
 Name=Evadeee - Paid.lua
-Link=http://www.evadeee.com/dl/Evadeee.lua
+Link=https://raw.githubusercontent.com/tucodon0193/BolProVN/master/Evadeee.lua
+Link1=http://www.evadeee.com/dl/Evadeee.lua
 [176]
 Common=Scripts
 Name=EvadeRevolution - Paid.lua
