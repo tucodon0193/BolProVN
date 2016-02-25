@@ -830,7 +830,7 @@ Link=https://dl.dropboxusercontent.com/s/rg9jilj1vze3s22/MarksmanMightyAssistant
 [207]
 Common=Scripts
 Name=Orianna - GagongOrianna - Paid.lua
-Link=https://github.com/yoonsup/bol/blob/master/GagongOrianna.lua
+Link=https://raw.githubusercontent.com/yoonsup/bol/master/GagongOrianna.lua
 [208]
 Common=Scripts
 Name=princeSmite - Free.lua
